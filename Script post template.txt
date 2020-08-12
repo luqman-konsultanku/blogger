@@ -1,0 +1,8 @@
+﻿Copy script berikut ke setting >> post and comment >> 
+masukkan script berikut :
+
+<span class="item_price">Rp 99.000</span>
+<br/><br/>
+Upload gambar produk disini
+<br/>
+Tulis deskripsi disini
